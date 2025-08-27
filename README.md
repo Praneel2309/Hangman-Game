@@ -12,3 +12,8 @@ A classic Hangman game implemented in Python, developed as part of the MITx 6.00
 - Conditional logic
 - Looping and control structures
 - Modular programming
+
+## 🙌 Acknowledgements
+- Inspired and guided by the **MIT:6.00.01x Intro to CS with Python** course on edX  
+- Problem set implemented and customized independently by **Praneel Sharma** (https://github.com/Praneel2309)
+- Thanks to the course instructors and edX platform for providing accessible AI/ML education
